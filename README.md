@@ -6,12 +6,15 @@ Como entusiasta em aprendizado de máquina e deep learning, tenho me dedicado a 
 da TensorFlow foi feito uma transferencia da obra de Kandinsky com um adorável labrador amarelo, mas aqui dar um toque de brasilidade, introduzi a deslumbrante Arara Azul de Romero Britto.
 
 #Monacat
+
 <img src="/Monacat.jpg">
 
 #Arara Azul 
+
 <img src="/arara.jpeg">
 
 #AraraCat - Imagem generativa com transferencia de estilo Neural
+
 <img src="/araracat.png">
 
 #IA #Arte #Inovação #TensorFlow
