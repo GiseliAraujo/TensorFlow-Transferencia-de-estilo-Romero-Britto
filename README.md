@@ -15,6 +15,6 @@ da TensorFlow foi feito uma transferencia da obra de Kandinsky com um adorável 
 
 #AraraCat - Imagem generativa com transferencia de estilo Neural
 
-<img src="/araracat.png">
+<img src="/AraraCat.png">
 
 #IA #Arte #Inovação #TensorFlow
